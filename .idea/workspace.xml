@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de2c0c6-73c6-458e-8627-8791b1328a41" name="Changes" comment="Finalizado as rotas /alunos, /saudacao e /curso (API Principal)">
-      <change afterPath="$PROJECT_DIR$/API_Github.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JSON_Local.py" afterDir="false" />
+    <list default="true" id="9de2c0c6-73c6-458e-8627-8791b1328a41" name="Changes" comment="Criado pasta IMG com os prints">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +52,15 @@
     &quot;Python.JSON_Local.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Luana/PycharmProjects/python_cloud_trabalho/IMG&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Luana\PycharmProjects\python_cloud_trabalho\IMG" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -175,7 +180,31 @@
       <option name="project" value="LOCAL" />
       <updated>1759084387987</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Adicionado API_GitHub para buscar informações de repositório">
+      <option name="closed" value="true" />
+      <created>1759085108454</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1759085108454</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Criado módulo de persistência para salvar e ler dados de alunos em JSON">
+      <option name="closed" value="true" />
+      <created>1759085129331</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1759085129331</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Criado pasta IMG com os prints">
+      <option name="closed" value="true" />
+      <created>1759087471457</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1759087471458</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -198,11 +227,12 @@
     <MESSAGE value="para o repositório" />
     <MESSAGE value=" Criado API_Clima com dados estáticos para São Paulo e Curitiba" />
     <MESSAGE value="Finaliza as rotas /alunos, /saudacao e /curso (API Principal)" />
-    <MESSAGE value="Adicionado API_GitHub para buscar informações de repositório" />
-    <MESSAGE value="Criado módulo de persistência para salvar e ler dados de alunos em JSON" />
     <MESSAGE value="." />
     <MESSAGE value="Criado API_Clima com dados estáticos para São Paulo e Curitiba" />
     <MESSAGE value="Finalizado as rotas /alunos, /saudacao e /curso (API Principal)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finalizado as rotas /alunos, /saudacao e /curso (API Principal)" />
+    <MESSAGE value="Adicionado API_GitHub para buscar informações de repositório" />
+    <MESSAGE value="Criado módulo de persistência para salvar e ler dados de alunos em JSON" />
+    <MESSAGE value="Criado pasta IMG com os prints" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado pasta IMG com os prints" />
   </component>
 </project>
