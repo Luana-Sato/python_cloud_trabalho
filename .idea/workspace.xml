@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de2c0c6-73c6-458e-8627-8791b1328a41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/python_cloud_trabalho.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9de2c0c6-73c6-458e-8627-8791b1328a41" name="Changes" comment="foi criado o arquivo para fazer os trabalhos pedidos em aula.">
       <change afterPath="$PROJECT_DIR$/API_Clima.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/API_Flask.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/API_Github.py" afterDir="false" />
@@ -30,6 +25,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Luana-Sato/python_cloud_trabalho",
+    "accountId": "d4213f7f-b9d8-4912-b06b-aa921e105f21"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
 }]]></component>
@@ -65,6 +66,30 @@
       <option name="presentableId" value="Default" />
       <updated>1759077572083</updated>
     </task>
+    <task id="LOCAL-00001" summary="foi criado o arquivo para fazer os trabalhos pedidos em aula.">
+      <option name="closed" value="true" />
+      <created>1759079542708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759079542708</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="foi criado o arquivo para fazer os trabalhos pedidos em aula." />
+    <option name="LAST_COMMIT_MESSAGE" value="foi criado o arquivo para fazer os trabalhos pedidos em aula." />
   </component>
 </project>
