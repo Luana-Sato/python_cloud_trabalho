@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9de2c0c6-73c6-458e-8627-8791b1328a41" name="Changes" comment="Criado módulo de persistência para salvar e ler dados de alunos em JSON" />
+    <list default="true" id="9de2c0c6-73c6-458e-8627-8791b1328a41" name="Changes" comment="Finalizado as rotas /alunos, /saudacao e /curso (API Principal)">
+      <change afterPath="$PROJECT_DIR$/API_Github.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON_Local.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,38 +24,38 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Luana-Sato"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Luana-Sato&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Luana-Sato/python_cloud_trabalho",
-    "accountId": "d4213f7f-b9d8-4912-b06b-aa921e105f21"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Luana-Sato/python_cloud_trabalho&quot;,
+    &quot;accountId&quot;: &quot;d4213f7f-b9d8-4912-b06b-aa921e105f21&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="33KtQ61lv0b4dzypIXx8W5rI2ml" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.API_Clima.executor": "Run",
-    "Python.API_Flask.executor": "Run",
-    "Python.API_Github.executor": "Run",
-    "Python.JSON_Local.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "git-widget-placeholder": "master"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.API_Clima.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API_Flask.executor&quot;: &quot;Run&quot;,
+    &quot;Python.API_Github.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JSON_Local.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -147,7 +151,31 @@
       <option name="project" value="LOCAL" />
       <updated>1759083386919</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary=".">
+      <option name="closed" value="true" />
+      <created>1759083851482</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1759083851482</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Criado API_Clima com dados estáticos para São Paulo e Curitiba">
+      <option name="closed" value="true" />
+      <created>1759084331343</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1759084331343</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Finalizado as rotas /alunos, /saudacao e /curso (API Principal)">
+      <option name="closed" value="true" />
+      <created>1759084387987</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1759084387987</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -172,6 +200,9 @@
     <MESSAGE value="Finaliza as rotas /alunos, /saudacao e /curso (API Principal)" />
     <MESSAGE value="Adicionado API_GitHub para buscar informações de repositório" />
     <MESSAGE value="Criado módulo de persistência para salvar e ler dados de alunos em JSON" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criado módulo de persistência para salvar e ler dados de alunos em JSON" />
+    <MESSAGE value="." />
+    <MESSAGE value="Criado API_Clima com dados estáticos para São Paulo e Curitiba" />
+    <MESSAGE value="Finalizado as rotas /alunos, /saudacao e /curso (API Principal)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finalizado as rotas /alunos, /saudacao e /curso (API Principal)" />
   </component>
 </project>
