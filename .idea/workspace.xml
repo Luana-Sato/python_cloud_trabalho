@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9de2c0c6-73c6-458e-8627-8791b1328a41" name="Changes" comment="Criado módulo de persistência para salvar e ler dados de alunos em JSON" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Luana-Sato"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Luana-Sato/python_cloud_trabalho",
+    "accountId": "d4213f7f-b9d8-4912-b06b-aa921e105f21"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="33KtQ61lv0b4dzypIXx8W5rI2ml" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.API_Clima.executor": "Run",
+    "Python.API_Flask.executor": "Run",
+    "Python.API_Github.executor": "Run",
+    "Python.JSON_Local.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9de2c0c6-73c6-458e-8627-8791b1328a41" name="Changes" comment="" />
+      <created>1759077572083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759077572083</updated>
+    </task>
+    <task id="LOCAL-00001" summary="foi criado o arquivo para fazer os trabalhos pedidos em aula.">
+      <option name="closed" value="true" />
+      <created>1759079542708</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759079542708</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Adicionado API_Clima com rotas estáticas para São Paulo e Curitiba">
+      <option name="closed" value="true" />
+      <created>1759079626073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759079626073</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Adicionado as rotas de Alunos, Saudação e Curso na API">
+      <option name="closed" value="true" />
+      <created>1759079695968</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759079695968</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adicionado API_GitHub para buscar repositório (nome, descrição, estrelas)">
+      <option name="closed" value="true" />
+      <created>1759079776003</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759079776003</updated>
+    </task>
+    <task id="LOCAL-00005" summary=" Criado módulo JSON_Local para salvar e ler dados de alunos">
+      <option name="closed" value="true" />
+      <created>1759079842155</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759079842155</updated>
+    </task>
+    <task id="LOCAL-00006" summary="para o repositório">
+      <option name="closed" value="true" />
+      <created>1759079866454</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759079866454</updated>
+    </task>
+    <task id="LOCAL-00007" summary=" Criado API_Clima com dados estáticos para São Paulo e Curitiba">
+      <option name="closed" value="true" />
+      <created>1759083313123</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759083313123</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Finaliza as rotas /alunos, /saudacao e /curso (API Principal)">
+      <option name="closed" value="true" />
+      <created>1759083337615</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759083337615</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Adicionado API_GitHub para buscar informações de repositório">
+      <option name="closed" value="true" />
+      <created>1759083362324</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759083362324</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Criado módulo de persistência para salvar e ler dados de alunos em JSON">
+      <option name="closed" value="true" />
+      <created>1759083386919</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759083386919</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="foi criado o arquivo para fazer os trabalhos pedidos em aula." />
+    <MESSAGE value="Adicionado API_Clima com rotas estáticas para São Paulo e Curitiba" />
+    <MESSAGE value="Adicionado as rotas de Alunos, Saudação e Curso na API" />
+    <MESSAGE value="Adicionado API_GitHub para buscar repositório (nome, descrição, estrelas)" />
+    <MESSAGE value=" Criado módulo JSON_Local para salvar e ler dados de alunos" />
+    <MESSAGE value="para o repositório" />
+    <MESSAGE value=" Criado API_Clima com dados estáticos para São Paulo e Curitiba" />
+    <MESSAGE value="Finaliza as rotas /alunos, /saudacao e /curso (API Principal)" />
+    <MESSAGE value="Adicionado API_GitHub para buscar informações de repositório" />
+    <MESSAGE value="Criado módulo de persistência para salvar e ler dados de alunos em JSON" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado módulo de persistência para salvar e ler dados de alunos em JSON" />
+  </component>
+</project>
